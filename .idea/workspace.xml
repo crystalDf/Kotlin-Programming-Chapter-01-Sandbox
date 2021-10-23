@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a5592f-bbeb-44b4-ac6f-4f4c2ece3ca1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sandbox.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sandbox/HelloKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sandbox/META-INF/Sandbox.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.kt" afterDir="false" />
+    <list default="true" id="f6a5592f-bbeb-44b4-ac6f-4f4c2ece3ca1" name="Default Changelist" comment="Chapter 01 Sandbox">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +23,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1VnSeTqLowERCqPQ8w9bYvrc9Jx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -56,6 +54,15 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -70,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Sandbox" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -92,18 +99,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.HelloKt" />
+        <item itemvalue="Application.HelloKt" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +117,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -130,32 +129,25 @@
       <option name="presentableId" value="Default" />
       <updated>1577887461556</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 01 Sandbox">
+      <created>1577891519798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577891519798</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chapter 01 Sandbox">
+      <created>1577891684369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577891684369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="154" y="23" key="CommitChangelistDialog2" timestamp="1577891519363">
-      <screen x="0" y="23" width="1280" height="713" />
-    </state>
-    <state x="154" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1577891519363" />
-    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1577888407396">
-      <screen x="0" y="23" width="1280" height="713" />
-    </state>
-    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1577888407396" />
-    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1577888407395">
-      <screen x="0" y="23" width="1280" height="713" />
-    </state>
-    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1577888407395" />
-    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1577888407395">
-      <screen x="0" y="23" width="1280" height="713" />
-    </state>
-    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1577888407395" />
-    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1577888407396">
-      <screen x="0" y="23" width="1280" height="713" />
-    </state>
-    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1577888407396" />
-    <state x="230" y="90" key="Vcs.Push.Dialog.v2" timestamp="1577891535613">
-      <screen x="0" y="23" width="1280" height="713" />
-    </state>
-    <state x="230" y="90" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1577891535613" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 01 Sandbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 01 Sandbox" />
   </component>
 </project>
