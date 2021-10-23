@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a5592f-bbeb-44b4-ac6f-4f4c2ece3ca1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sandbox/HelloKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sandbox/HelloKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sandbox/META-INF/Sandbox.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sandbox/META-INF/Sandbox.kotlin_module" afterDir="false" />
-    </list>
+    <list default="true" id="f6a5592f-bbeb-44b4-ac6f-4f4c2ece3ca1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634973180101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter 01 Sandbox">
+      <created>1634973543087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634973543087</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
